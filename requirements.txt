@@ -1,0 +1,13 @@
+# Same library versions as the Colab run that trained engine_v4.joblib (the model file needs scikit-learn 1.6.1)
+scikit-learn==1.6.1
+numpy==2.0.2
+pandas==2.2.3
+lightgbm==4.6.0
+shap==0.48.0
+tldextract==5.3.0
+joblib==1.4.2
+requests>=2.31
+openpyxl>=3.1
+xlrd>=2.0
+huggingface_hub>=0.30
+gradio==6.32.0
